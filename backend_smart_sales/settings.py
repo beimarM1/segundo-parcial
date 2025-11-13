@@ -157,6 +157,8 @@ CORS_ALLOW_CREDENTIALS = True
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:8000",  # Django
     "http://localhost:5173",  # Vite
+"https://segundo-parcial-production.up.railway.app",
+    "https://smartsales36.netlify.app"
 ]
 
 # ==========================================
